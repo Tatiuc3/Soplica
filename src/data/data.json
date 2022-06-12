@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Vodka polaco",
+    "paragraph": "Cada momento tiene un sabor diferente"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Nuestro vodka polaco está compuesto de ingredientes naturales, provienen directamente de los mejores huertos polacos, madurados al sol y recogidos cuando se encuentran en su perfecto estado para transformarlo en la siguiente fase de la producción.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -20,49 +20,28 @@
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Sabor Frambuesa",
+      "largeImage": "img/soplica/botella_frambuesa.jpg",
+      "smallImage": "img/soplica/botella_frambuesa.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Sabor Cereza",
+      "largeImage": "img/soplica/botella_cereza.jpg",
+      "smallImage": "img/soplica/botella_cereza.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Sabor Avellana",
+      "largeImage": "img/soplica/botella_avellana.jpg",
+      "smallImage": "img/soplica/botella_avellana.jpg"
+    },    {
+      "title": "Sabor Albaricoque",
+      "largeImage": "img/soplica/botella_albaricoque.jpg",
+      "smallImage": "img/soplica/botella_albaricoque.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "Sabor Grosella",
+      "largeImage": "img/soplica/botella_grosella.jpg",
+      "smallImage": "img/soplica/botella_grosella.jpg"
     }
   ],
   "Services": [
@@ -99,85 +78,85 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/team/01.jpeg",
+      "text": "Director de Finanzas",
+      "name": "Manuel García"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/team/02.jpeg",
+      "text": "Director de Finanzas y Marketing",
+      "name": "Yago Maril"
     },
     {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/team/03.jpeg",
+      "text": "Especialista de mercado Latinoamericano",
+      "name": "Josue Escobar"
     },
     {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/team/04.jpeg",
+      "text": "Directora de Marketing",
+      "name": "Tatiana Herrera"
     },
     {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/team/05.jpeg",
+      "text": "Directora de Logística",
+      "name": "Laura Caturla"
     },
     {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/team/06.jpeg",
+      "text": "Directora Legal",
+      "name": "Sara Carrasco"
     }
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/cocteles/coc1.jpg",
+      "name": "Cereza mid",
+      "job": ""
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/cocteles/coc2.jpg",
+      "name": "Soplica framb",
+      "job": ""
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "img": "img/cocteles/coc3.jpg",
+      "name": "Albaricoque fusion",
+      "job": ""
     },
     {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/cocteles/coc4.jpg",
+      "name": "Grosella chill",
+      "job": ""
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "Miraflores 50, Santiago, Chile ",
+    "phone": "+56 2 64690861",
+    "email": "info@soplicachile.com",
+    "facebook": "https://www.facebook.com/soplica.es/",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
+      "title": "TATI",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
+      "title": "Tati linda",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
+      "title": "Tati triste",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
+      "title": "Tati preocupada",
       "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
     }
   ]

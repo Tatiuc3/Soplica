@@ -16,7 +16,7 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            React Landing Page
+            <img src="../img/soplica/soplica_logo.jpg" className="img-responsive" alt="" />{" "}
           </a>{' '}
         </div>
 
@@ -26,38 +26,34 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
-              <a href='#features' className='page-scroll'>
-                Features
+              <a href='#page-top' className='page-scroll'>
+                Nuestro Vodka
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
-              </a>
-            </li>
-            <li>
-              <a href='#services' className='page-scroll'>
-                Services
+                Historia
               </a>
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Sabores
+              </a>
+            </li>
+            <li>
+              <a href='#features' className='page-scroll'>
+                Cocteles
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Equipo
               </a>
             </li>
-            <li>
-              <a href='#team' className='page-scroll'>
-                Team
-              </a>
-            </li>
+
             <li>
               <a href='#contact' className='page-scroll'>
-                Contact
+                Contacto
               </a>
             </li>
           </ul>

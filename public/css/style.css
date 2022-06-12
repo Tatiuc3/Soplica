@@ -167,7 +167,7 @@ hr {
   text-transform: uppercase;
   color: #fff;
   background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-image: linear-gradient(to right, #a94442 0%, #6372ff 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -208,7 +208,7 @@ a:focus,
   display: table;
   width: 100%;
   padding: 0;
-  background: url(../img/intro-bg.jpg) center center no-repeat;
+  background: url(../img/soplica/who_fondo.jpg) center center no-repeat;
   background-color: #e5e5e5;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -232,9 +232,9 @@ a:focus,
   color: #5ca9fb;
 }
 .intro p {
-  color: #fff;
+  color: rgb(0, 0, 0);
   font-size: 22px;
-  font-weight: 300;
+  font-weight: 600;
   line-height: 30px;
   margin: 0 auto;
   margin-bottom: 60px;
@@ -402,7 +402,7 @@ header .intro-text {
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;
-  background: #f6f6f6;
+  background: #ffffff;
 }
 #testimonials i {
   color: #e6e6e6;
@@ -460,7 +460,7 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  background: linear-gradient(to right, #a94442 0%, #7c001c 100%);
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {

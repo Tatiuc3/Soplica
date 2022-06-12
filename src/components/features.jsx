@@ -1,21 +1,28 @@
 export const Features = (props) => {
   return (
     <div id='features' className='text-center'>
-      <div className='container'>
-        <div className='col-md-10 col-md-offset-1 section-title'>
-          <h2>Features</h2>
+     <div className='container'>
+        <div className='col-md-8 col-md-offset-2 section-title'>
+          <h2>Cocteles</h2>
+          <p>
+            ¿Cómo disfrutarlos?
+          </p>
         </div>
-        <div className='row'>
+        <div id='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
-                  {' '}
-                  <i className={d.icon}></i>
-                  <h3>{d.title}</h3>
-                  <p>{d.text}</p>
+                <div key={`${d.name}-${i}`} className='col-md-3 col-sm-6 team'>
+                  <div className='thumbnail'>
+                    {' '}
+                    <img src={d.img} alt='...' className='team-img' />
+                    <div className='caption'>
+                      <h4>{d.name}</h4>
+                      <p>{d.job}</p>
+                    </div>
+                  </div>
                 </div>
               ))
-            : 'Loading...'}
+            : 'loading'}
         </div>
       </div>
     </div>
