@@ -8,7 +8,7 @@ export const About = (props) => {
         </div>
           <div className="col-xs-12 col-md-6">
             {" "}
-            <img src="img/soplica/logo_soplica.PNG" className="img-responsive" alt="" />{" "}
+            <img src="docs/img/soplica/logo_soplica.png" className="img-responsive" alt="" />{" "}
           </div>
           <div className="col-xs-12 col-md-6">
             <div className="about-text">
