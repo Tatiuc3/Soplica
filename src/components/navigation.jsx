@@ -17,6 +17,7 @@ export const Navigation = (props) => {
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
             <img src="../img/soplica/soplica_logo.jpg" className="img-responsive" alt="" />{" "}
+            
           </a>{' '}
         </div>
 
